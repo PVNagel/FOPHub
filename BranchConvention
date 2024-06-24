@@ -1,0 +1,40 @@
+Feature Branches:  ⭐
+feature/branch-name: Used for adding new features or functionalities.
+Examples: 
+feature/user-authentication
+feature/payment-integration
+
+Bug Fix Branches: 🪲
+bugfix/branch-name: Used for fixing bugs or issues.
+Examples: 
+bugfix/database-error
+bugfix/ui-styling-issue
+
+Hotfix Branches: 🔥
+Hotfix/branch-name: Used for critical fixes that need to be deployed quickly.
+Examples: 
+hotfix/security-issue
+hotfix/crash-fix
+
+Personal Branches: 👨‍💻
+user/username/branch-name: Individual branches for personal work.
+Examples: 
+user/johndoe/experimental-feature
+user/janedoe/bugfix-login
+
+Documentation Branches: 📄
+doc/documentation-topic: Used for documentation changes.
+Examples: 
+doc/update-readme
+doc/api-documentation
+
+Release Branches: 📬 
+release/version-number: Used to prepare for a new release version.
+Examples: 
+release/1.0.0
+release/2.1.3
+ 
+NOTE:
+Keep branch names concise, but descriptive enough to understand their purpose.
+Use lowercase letters and hyphens for better readability.
+Avoid spaces, special characters, and accents.
