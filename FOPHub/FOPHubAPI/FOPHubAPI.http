@@ -1,0 +1,6 @@
+@FOPHubAPI_HostAddress = http://localhost:5150
+
+GET {{FOPHubAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

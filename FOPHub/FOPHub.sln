@@ -5,6 +5,10 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FOPHub", "FOPHub\FOPHub.csproj", "{43DD1C20-14D8-4215-B0F9-29B9180F5238}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FOPHub.Library", "FOPHub.Library\FOPHub.Library.csproj", "{B5359C35-BE7F-4AD7-823C-314B53337FF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FOPHubAPI", "FOPHubAPI\FOPHubAPI.csproj", "{143B16FE-B112-4F54-83EB-D1048D125BD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{43DD1C20-14D8-4215-B0F9-29B9180F5238}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43DD1C20-14D8-4215-B0F9-29B9180F5238}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43DD1C20-14D8-4215-B0F9-29B9180F5238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5359C35-BE7F-4AD7-823C-314B53337FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5359C35-BE7F-4AD7-823C-314B53337FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5359C35-BE7F-4AD7-823C-314B53337FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5359C35-BE7F-4AD7-823C-314B53337FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{143B16FE-B112-4F54-83EB-D1048D125BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143B16FE-B112-4F54-83EB-D1048D125BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143B16FE-B112-4F54-83EB-D1048D125BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143B16FE-B112-4F54-83EB-D1048D125BD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
