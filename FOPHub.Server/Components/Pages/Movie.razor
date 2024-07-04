@@ -1,0 +1,40 @@
+﻿@page "/movie/{id:int}"
+@inject TMDbService TMDbService
+@using FOPHub.Library
+@using FOPHub.Server.Services.API
+
+@if (movie != null)
+{
+    <div>
+        <h2>@movie.title (@movie.release_date.Split('-')[0])</h2>
+        <img src="https://image.tmdb.org/t/p/w500/@movie.poster_path" alt="@movie.title Poster" />
+        <p><strong>Tagline:</strong> @movie.tagline</p>
+        <p><strong>Overview:</strong> @movie.overview</p>
+        <p><strong>Genres:</strong> @string.Join(", ", movie.genres.Select(g => g.name))</p>
+        <p><strong>Release Date:</strong> @movie.release_date</p>
+        <p><strong>Runtime:</strong> @movie.runtime minutes</p>
+        <p><strong>Budget:</strong> $@movie.budget"</p>
+        <p><strong>Revenue:</strong> $@movie.revenue"</p>
+        <p><strong>Vote Average:</strong> @movie.vote_average</p>
+        <p><strong>Vote Count:</strong> @movie.vote_count</p>
+        <p><strong>Production Companies:</strong> @string.Join(", ", movie.production_companies.Select(pc => pc.name))</p>
+        <p><strong>Production Countries:</strong> @string.Join(", ", movie.production_countries.Select(pc => pc.name))</p>
+        <p><strong>Spoken Languages:</strong> @string.Join(", ", movie.spoken_languages.Select(sl => sl.english_name))</p>
+    </div>
+}
+else
+{
+    <p>Loading...</p>
+}
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+
+    private MovieDetailsResponse movie;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        movie = await TMDbService.GetMovieByIdAsync(id);
+    }
+}

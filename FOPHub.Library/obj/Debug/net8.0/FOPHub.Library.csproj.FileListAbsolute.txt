@@ -1,0 +1,11 @@
+C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Library\bin\Debug\net8.0\FOPHub.Library.deps.json
+C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Library\bin\Debug\net8.0\FOPHub.Library.dll
+C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Library\bin\Debug\net8.0\FOPHub.Library.pdb
+C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Library\obj\Debug\net8.0\FOPHub.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Library\obj\Debug\net8.0\FOPHub.Library.AssemblyInfoInputs.cache
+C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Library\obj\Debug\net8.0\FOPHub.Library.AssemblyInfo.cs
+C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Library\obj\Debug\net8.0\FOPHub.Library.csproj.CoreCompileInputs.cache
+C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Library\obj\Debug\net8.0\FOPHub.Library.dll
+C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Library\obj\Debug\net8.0\refint\FOPHub.Library.dll
+C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Library\obj\Debug\net8.0\FOPHub.Library.pdb
+C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Library\obj\Debug\net8.0\ref\FOPHub.Library.dll

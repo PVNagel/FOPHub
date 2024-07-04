@@ -1,0 +1,27 @@
+﻿@page "/profile/{username}"
+@inject UserService UserService
+@using FOPHub.Server.Data
+@using FOPHub.Server.Services.User
+
+@if (user != null)
+{
+    <h3>@user.UserName's Profile</h3>
+    <p>Email: @user.Email</p>
+}
+
+else
+{
+    <p>User not found.</p>
+}
+
+@code {
+    [Parameter]
+    public string Username { get; set; }
+
+    private ApplicationUser user;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        user = await UserService.GetUserByUsernameAsync(Username);
+    }
+}
