@@ -142,3 +142,4 @@ C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Server\obj\Debug\net8.0\F
 C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Server\obj\Debug\net8.0\ref\FOPHub.Server.dll
 C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Server\bin\Debug\net8.0\FOPHub.Library.dll
 C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Server\bin\Debug\net8.0\FOPHub.Library.pdb
+C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Server\obj\Debug\net8.0\FOPHub.Server.sourcelink.json

@@ -7,6 +7,26 @@
       "RelativeMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|solutionrelative:fophub.server\\services\\api\\tmdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|c:\\users\\phili\\documents\\code\\myprojects\\fophub\\fophub.server\\services\\watchlist\\fopwatchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|solutionrelative:fophub.server\\services\\watchlist\\fopwatchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|c:\\users\\phili\\documents\\code\\myprojects\\fophub\\fophub.server\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|solutionrelative:fophub.server\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|c:\\users\\phili\\documents\\code\\myprojects\\fophub\\fophub.server\\services\\user\\userreviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|solutionrelative:fophub.server\\services\\user\\userreviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|c:\\users\\phili\\documents\\code\\myprojects\\fophub\\fophub.server\\services\\user\\usermovieinteractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|solutionrelative:fophub.server\\services\\user\\usermovieinteractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|c:\\users\\phili\\documents\\code\\myprojects\\fophub\\fophub.server\\services\\movie\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|solutionrelative:fophub.server\\services\\movie\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|c:\\users\\phili\\documents\\code\\myprojects\\fophub\\fophub.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|solutionrelative:fophub.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{5867FAAF-FA8B-4CE7-8E5F-9224254410FD}|FOPHub.Library\\FOPHub.Library.csproj|solutionrelative:fophub.library\\spokenlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|c:\\users\\phili\\documents\\code\\myprojects\\fophub\\fophub.server\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|solutionrelative:fophub.server\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|c:\\users\\phili\\documents\\code\\myprojects\\fophub\\fophub.server\\components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|solutionrelative:fophub.server\\components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -66,67 +82,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Services\\Movie\\MovieService.cs",
+              "RelativeDocumentMoniker": "FOPHub.Server\\Services\\Movie\\MovieService.cs",
+              "ToolTip": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Services\\Movie\\MovieService.cs",
+              "RelativeToolTip": "FOPHub.Server\\Services\\Movie\\MovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:20:15.257Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "FOPHub.Server\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "FOPHub.Server\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAqwCoAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T21:31:12.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Movie.razor",
-              "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Components\\Pages\\Movie.razor",
-              "RelativeDocumentMoniker": "FOPHub.Server\\Components\\Pages\\Movie.razor",
-              "ToolTip": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Components\\Pages\\Movie.razor",
-              "RelativeToolTip": "FOPHub.Server\\Components\\Pages\\Movie.razor",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T21:21:59.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SpokenLanguage.cs",
-              "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Library\\SpokenLanguage.cs",
-              "RelativeDocumentMoniker": "FOPHub.Library\\SpokenLanguage.cs",
-              "ToolTip": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Library\\SpokenLanguage.cs",
-              "RelativeToolTip": "FOPHub.Library\\SpokenLanguage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T21:20:07.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Library\\Movie.cs",
-              "RelativeDocumentMoniker": "FOPHub.Library\\Movie.cs",
-              "ToolTip": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Library\\Movie.cs",
-              "RelativeToolTip": "FOPHub.Library\\Movie.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAIwA4AAAAyAAAA",
+              "Title": "UserMovieInteractionService.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Services\\User\\UserMovieInteractionService.cs",
+              "RelativeDocumentMoniker": "FOPHub.Server\\Services\\User\\UserMovieInteractionService.cs",
+              "ToolTip": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Services\\User\\UserMovieInteractionService.cs",
+              "RelativeToolTip": "FOPHub.Server\\Services\\User\\UserMovieInteractionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T21:19:14.192Z",
+              "WhenOpened": "2024-07-04T22:31:52.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "FOPWatchlistService.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Services\\Watchlist\\FOPWatchlistService.cs",
+              "RelativeDocumentMoniker": "FOPHub.Server\\Services\\Watchlist\\FOPWatchlistService.cs",
+              "ToolTip": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Services\\Watchlist\\FOPWatchlistService.cs",
+              "RelativeToolTip": "FOPHub.Server\\Services\\Watchlist\\FOPWatchlistService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:13:03.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Services\\User\\UserReviewService.cs",
+              "RelativeDocumentMoniker": "FOPHub.Server\\Services\\User\\UserReviewService.cs",
+              "ToolTip": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Services\\User\\UserReviewService.cs",
+              "RelativeToolTip": "FOPHub.Server\\Services\\User\\UserReviewService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:12:46.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Genre.cs",
               "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Library\\Genre.cs",
               "RelativeDocumentMoniker": "FOPHub.Library\\Genre.cs",
@@ -134,8 +150,32 @@
               "RelativeToolTip": "FOPHub.Library\\Genre.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T21:18:59.64Z",
+              "WhenOpened": "2024-07-04T21:18:59.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Services\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "FOPHub.Server\\Services\\User\\UserService.cs",
+              "ToolTip": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Services\\User\\UserService.cs",
+              "RelativeToolTip": "FOPHub.Server\\Services\\User\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T20:01:13.853Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Library\\Movie.cs",
+              "RelativeDocumentMoniker": "FOPHub.Library\\Movie.cs",
+              "ToolTip": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Library\\Movie.cs",
+              "RelativeToolTip": "FOPHub.Library\\Movie.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T21:19:14.192Z"
             },
             {
               "$type": "Document",
@@ -145,14 +185,50 @@
               "RelativeDocumentMoniker": "FOPHub.Server\\Services\\API\\TMDbService.cs",
               "ToolTip": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Services\\API\\TMDbService.cs",
               "RelativeToolTip": "FOPHub.Server\\Services\\API\\TMDbService.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowDgAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T20:09:16.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
+              "Title": "SpokenLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Library\\SpokenLanguage.cs",
+              "RelativeDocumentMoniker": "FOPHub.Library\\SpokenLanguage.cs",
+              "ToolTip": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Library\\SpokenLanguage.cs",
+              "RelativeToolTip": "FOPHub.Library\\SpokenLanguage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T21:20:07.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movie.razor",
+              "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Components\\Pages\\Movie.razor",
+              "RelativeDocumentMoniker": "FOPHub.Server\\Components\\Pages\\Movie.razor",
+              "ToolTip": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Components\\Pages\\Movie.razor",
+              "RelativeToolTip": "FOPHub.Server\\Components\\Pages\\Movie.razor",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T21:21:59.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "FOPHub.Server\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "FOPHub.Server\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwCoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T21:31:12.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "MovieDetailsResponse.cs",
               "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Library\\MovieDetailsResponse.cs",
               "RelativeDocumentMoniker": "FOPHub.Library\\MovieDetailsResponse.cs",
@@ -160,12 +236,11 @@
               "RelativeToolTip": "FOPHub.Library\\MovieDetailsResponse.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwCMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T21:13:26.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T21:13:26.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Program.cs",
               "RelativeDocumentMoniker": "FOPHub.Server\\Program.cs",
@@ -173,12 +248,11 @@
               "RelativeToolTip": "FOPHub.Server\\Program.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAuwCUAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T19:39:37.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T19:39:37.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "PopularMoviesResponse.cs",
               "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Library\\PopularMoviesResponse.cs",
               "RelativeDocumentMoniker": "FOPHub.Library\\PopularMoviesResponse.cs",
@@ -186,12 +260,11 @@
               "RelativeToolTip": "FOPHub.Library\\PopularMoviesResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T21:32:17.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T21:32:17.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "ProductionCountry.cs",
               "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Library\\ProductionCountry.cs",
               "RelativeDocumentMoniker": "FOPHub.Library\\ProductionCountry.cs",
@@ -199,12 +272,11 @@
               "RelativeToolTip": "FOPHub.Library\\ProductionCountry.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T21:20:27.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T21:20:27.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "ProductionCompany.cs",
               "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Library\\ProductionCompany.cs",
               "RelativeDocumentMoniker": "FOPHub.Library\\ProductionCompany.cs",
@@ -212,12 +284,11 @@
               "RelativeToolTip": "FOPHub.Library\\ProductionCompany.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T21:20:39.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T21:20:39.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "BelongsToCollection.cs",
               "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Library\\BelongsToCollection.cs",
               "RelativeDocumentMoniker": "FOPHub.Library\\BelongsToCollection.cs",
@@ -225,25 +296,11 @@
               "RelativeToolTip": "FOPHub.Library\\BelongsToCollection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T21:20:58.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T21:20:58.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Services\\User\\UserService.cs",
-              "RelativeDocumentMoniker": "FOPHub.Server\\Services\\User\\UserService.cs",
-              "ToolTip": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Services\\User\\UserService.cs",
-              "RelativeToolTip": "FOPHub.Server\\Services\\User\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T20:01:13.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Profile.razor",
               "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Components\\Pages\\Profile.razor",
               "RelativeDocumentMoniker": "FOPHub.Server\\Components\\Pages\\Profile.razor",
@@ -251,8 +308,7 @@
               "RelativeToolTip": "FOPHub.Server\\Components\\Pages\\Profile.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T18:58:23.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T18:58:23.349Z"
             }
           ]
         }

@@ -4,6 +4,9 @@ using System.Text.Json;
 
 namespace FOPHub.Server.Services.API
 {
+    /// <summary>
+    /// Implementation for managing external API calls to TMDb.
+    /// </summary>
     public class TMDbService
     {
         private readonly HttpClient _httpClient;

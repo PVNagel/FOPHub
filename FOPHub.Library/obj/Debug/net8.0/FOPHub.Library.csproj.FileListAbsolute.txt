@@ -9,3 +9,4 @@ C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Library\obj\Debug\net8.0\
 C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Library\obj\Debug\net8.0\refint\FOPHub.Library.dll
 C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Library\obj\Debug\net8.0\FOPHub.Library.pdb
 C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Library\obj\Debug\net8.0\ref\FOPHub.Library.dll
+C:\Users\phili\Documents\Code\MyProjects\FOPHub\FOPHub.Library\obj\Debug\net8.0\FOPHub.Library.sourcelink.json

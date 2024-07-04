@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FOPHub.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c32aca165287fd1785253ae4365da2b6e3544c43")]
 [assembly: System.Reflection.AssemblyProductAttribute("FOPHub.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FOPHub.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

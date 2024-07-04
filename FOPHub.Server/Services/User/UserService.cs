@@ -5,6 +5,9 @@
     using FOPHub.Server.Data;
     using System.Threading.Tasks;
 
+    /// <summary>
+    /// Implementation for managing users
+    /// </summary>
     public class UserService
     {
         private readonly ApplicationDbContext _context;
