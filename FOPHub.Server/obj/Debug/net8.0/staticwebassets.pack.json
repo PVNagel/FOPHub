@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FOPHub.Server.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FOPHub.Server.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FOPHub.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FOPHub.Server.props",
+      "PackagePath": "build\\FOPHub.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FOPHub.Server.props",
+      "PackagePath": "buildMultiTargeting\\FOPHub.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FOPHub.Server.props",
+      "PackagePath": "buildTransitive\\FOPHub.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

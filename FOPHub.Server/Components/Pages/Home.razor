@@ -1,0 +1,55 @@
+﻿@page "/"
+@using FOPHub.Library
+@using FOPHub.Server.Services.API
+
+<PageTitle>Home</PageTitle>
+
+<h1>Popular Movies</h1>
+
+<div class="container">
+    @if (PopularMovies == null)
+    {
+        <p>Loading...</p>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var movie in PopularMovies)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card">
+                        @if (!string.IsNullOrEmpty(movie.poster_path))
+                        {
+                            <NavLink href="@($"/movie/{movie.id}")">
+                                <img class="card-img-top" src="https://image.tmdb.org/t/p/w500/@movie.poster_path" alt="Movie Poster">
+                            </NavLink>
+                        }
+                        <div class="card-body">
+                            <h5 class="card-title">@movie.title</h5>
+                            <p class="card-text">Release Date: @movie.release_date</p>
+                            <p class="card-text">Vote Average: @movie.vote_average</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>
+
+@code {
+    private List<FOPHub.Library.Movie> PopularMovies { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            var tmdbService = new TMDbService(new HttpClient());
+            var popularMoviesResponse = await tmdbService.GetPopularMoviesAsync();
+            PopularMovies = popularMoviesResponse.results;
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error: {ex.Message}");
+        }
+    }
+}
