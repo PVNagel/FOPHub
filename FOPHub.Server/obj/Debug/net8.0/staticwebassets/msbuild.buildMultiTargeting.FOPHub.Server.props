@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\FOPHub.Server.props" />
-</Project>
