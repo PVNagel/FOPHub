@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|c:\\users\\phili\\documents\\code\\myprojects\\fophub\\fophub.server\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|solutionrelative:fophub.server\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|c:\\users\\phili\\documents\\code\\myprojects\\fophub\\fophub.server\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4FAA279-B529-45CD-83DD-E21D12E6BC65}|FOPHub.Server\\FOPHub.Server.csproj|solutionrelative:fophub.server\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,33 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "FOPHub.Server\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "FOPHub.Server\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T12:13:03.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "FOPHub.Server\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\phili\\Documents\\Code\\MyProjects\\FOPHub\\FOPHub.Server\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "FOPHub.Server\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAACwAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T12:12:32.291Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

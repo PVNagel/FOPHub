@@ -1,7 +1,7 @@
 using FOPHub.Server.Components;
 using FOPHub.Server.Components.Account;
 using FOPHub.Server.Data;
-using FOPHub.Server.Services.API;
+using FOPHub.Server.Services.Movie;
 using FOPHub.Server.Services.User;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Identity;
@@ -19,7 +19,7 @@ builder.Services.AddScoped<IdentityUserAccessor>();
 builder.Services.AddScoped<IdentityRedirectManager>();
 builder.Services.AddScoped<AuthenticationStateProvider, IdentityRevalidatingAuthenticationStateProvider>();
 builder.Services.AddScoped<UserService>();
-builder.Services.AddScoped<TMDbService>();
+builder.Services.AddScoped<MovieService>();
 
 
 builder.Services.AddAuthentication(options =>
@@ -33,7 +33,7 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
-builder.Services.AddHttpClient<TMDbService>(client =>
+builder.Services.AddHttpClient<MovieService>(client =>
 {
     client.BaseAddress = new Uri("https://api.themoviedb.org/3");
     client.DefaultRequestHeaders.Add("Accept", "application/json");

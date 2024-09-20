@@ -1,7 +1,7 @@
 ﻿@page "/movie/{id:int}"
-@inject TMDbService TMDbService
+@inject MovieService MovieService
 @using FOPHub.Library
-@using FOPHub.Server.Services.API
+@using FOPHub.Server.Services.Movie
 
 @if (movie != null)
 {
@@ -35,6 +35,6 @@ else
 
     protected override async Task OnParametersSetAsync()
     {
-        movie = await TMDbService.GetMovieByIdAsync(id);
+        movie = await MovieService.GetMovieByIdAsync(id);
     }
 }
